@@ -1,4 +1,4 @@
-export const BASE_HREF = '';
+export const BASE_HREF = process.env.PUBLIC_URL;
 
 // API endpoint for retrieving the attendees list, joining the room, and ending the room
 export const CHIME_ROOM_API = 'https://ssnbwkst29.execute-api.us-east-1.amazonaws.com/Prod/';
