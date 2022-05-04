@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Users/apple/Desktop/lets-watch-together/build/static/css/main.77380308.chunk.css",
-    "main.js": "/Users/apple/Desktop/lets-watch-together/build/static/js/main.6c9f8048.chunk.js",
-    "main.js.map": "/Users/apple/Desktop/lets-watch-together/build/static/js/main.6c9f8048.chunk.js.map",
-    "runtime-main.js": "/Users/apple/Desktop/lets-watch-together/build/static/js/runtime-main.7dbf3cc8.js",
-    "runtime-main.js.map": "/Users/apple/Desktop/lets-watch-together/build/static/js/runtime-main.7dbf3cc8.js.map",
-    "static/js/2.0488fe62.chunk.js": "/Users/apple/Desktop/lets-watch-together/build/static/js/2.0488fe62.chunk.js",
-    "static/js/2.0488fe62.chunk.js.map": "/Users/apple/Desktop/lets-watch-together/build/static/js/2.0488fe62.chunk.js.map",
-    "index.html": "/Users/apple/Desktop/lets-watch-together/build/index.html",
-    "static/css/main.77380308.chunk.css.map": "/Users/apple/Desktop/lets-watch-together/build/static/css/main.77380308.chunk.css.map",
-    "static/js/2.0488fe62.chunk.js.LICENSE.txt": "/Users/apple/Desktop/lets-watch-together/build/static/js/2.0488fe62.chunk.js.LICENSE.txt",
-    "static/media/ChimeWeb.css": "/Users/apple/Desktop/lets-watch-together/build/static/media/bg.018aae67.jpg"
+    "main.css": "/build/static/css/main.453bc423.chunk.css",
+    "main.js": "/build/static/js/main.e25bdb29.chunk.js",
+    "main.js.map": "/build/static/js/main.e25bdb29.chunk.js.map",
+    "runtime-main.js": "/build/static/js/runtime-main.473d3157.js",
+    "runtime-main.js.map": "/build/static/js/runtime-main.473d3157.js.map",
+    "static/js/2.0488fe62.chunk.js": "/build/static/js/2.0488fe62.chunk.js",
+    "static/js/2.0488fe62.chunk.js.map": "/build/static/js/2.0488fe62.chunk.js.map",
+    "index.html": "/build/index.html",
+    "static/css/main.453bc423.chunk.css.map": "/build/static/css/main.453bc423.chunk.css.map",
+    "static/js/2.0488fe62.chunk.js.LICENSE.txt": "/build/static/js/2.0488fe62.chunk.js.LICENSE.txt",
+    "static/media/ChimeWeb.css": "/build/static/media/bg.018aae67.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.7dbf3cc8.js",
+    "static/js/runtime-main.473d3157.js",
     "static/js/2.0488fe62.chunk.js",
-    "static/css/main.77380308.chunk.css",
-    "static/js/main.6c9f8048.chunk.js"
+    "static/css/main.453bc423.chunk.css",
+    "static/js/main.e25bdb29.chunk.js"
   ]
 }
